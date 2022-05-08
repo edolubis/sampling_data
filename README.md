@@ -1,4 +1,4 @@
-# sampling_data
+# Tugas shell sampling_data
 # download 
 file code ini digunakan untuk mendownload dataset 
 
