@@ -9,4 +9,4 @@ file tersebut masih berbentuk xlsx perlu diubah ke file csv
 pada satu file xlsx tadi terdapat dua dataset pada dua sheet sehingga kedunya perlu digabungkan menjadi satu file csv
 
 # sampling dataset
-sampling dilakukan sebanyak 0.3
+sampling dilakukan sebanyak 30%
