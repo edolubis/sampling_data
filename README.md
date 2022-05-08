@@ -1,4 +1,4 @@
-# Tugas shell sampling_data
+# Penjelasan Sampling.sh
 # download 
 file code ini digunakan untuk mendownload dataset 
 
